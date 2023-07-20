@@ -1,0 +1,17 @@
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\BarcodeGenerator.exe
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\BarcodeGenerator.deps.json
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\BarcodeGenerator.runtimeconfig.json
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\BarcodeGenerator.dll
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\BarcodeGenerator.pdb
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.csproj.AssemblyReference.cache
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.Form1.resources
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.csproj.GenerateResource.cache
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.AssemblyInfoInputs.cache
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.AssemblyInfo.cs
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.csproj.CoreCompileInputs.cache
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.dll
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\refint\BarcodeGenerator.dll
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.pdb
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.genruntimeconfig.cache
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\ref\BarcodeGenerator.dll
