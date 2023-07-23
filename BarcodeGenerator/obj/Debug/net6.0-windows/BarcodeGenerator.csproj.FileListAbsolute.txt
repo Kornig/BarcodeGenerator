@@ -15,3 +15,10 @@ B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\ref
 B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.pdb
 B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.genruntimeconfig.cache
 B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\ref\BarcodeGenerator.dll
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\zxing.dll
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\ZXing.Windows.Compatibility.dll
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+B:\c_sharp_things\BarcodeGenerator\BarcodeGenerator\obj\Debug\net6.0-windows\BarcodeGenerator.csproj.CopyComplete

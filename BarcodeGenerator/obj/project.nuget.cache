@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hcbqgl+MWu0b/Wy9t4XzVqFkXyRQnBpNCWC1txkf0KBfhtSoUWFb+hv4V0xYAuMRs0MOwJAZoI5+/jD47xXvMQ==",
+  "dgSpecHash": "MPRgdK2bnRx7/EXEislPaWWNXXbjsouOUKl3kDXdorDZiVjAIRUF7H+eli+xNChl28K+u7543IykkLFCxb0k2A==",
   "success": true,
   "projectFilePath": "B:\\c_sharp_things\\BarcodeGenerator\\BarcodeGenerator\\BarcodeGenerator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\zxing.net.bindings.windows.compatibility\\0.16.12\\zxing.net.bindings.windows.compatibility.0.16.12.nupkg.sha512"
+  ],
   "logs": []
 }
