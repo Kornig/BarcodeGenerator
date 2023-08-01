@@ -1,11 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "MPRgdK2bnRx7/EXEislPaWWNXXbjsouOUKl3kDXdorDZiVjAIRUF7H+eli+xNChl28K+u7543IykkLFCxb0k2A==",
+  "dgSpecHash": "l3qJLQDCGPkBMbreOtJcjQPYNXpPQK2nD76WyuE8KQKjfzH/VVFyo9ae7u3P5hzUEDXlPhiqUUc2mEoYzdOnmQ==",
   "success": true,
   "projectFilePath": "B:\\c_sharp_things\\BarcodeGenerator\\BarcodeGenerator\\BarcodeGenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Work\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\zxing.net.bindings.windows.compatibility\\0.16.12\\zxing.net.bindings.windows.compatibility.0.16.12.nupkg.sha512"
   ],
